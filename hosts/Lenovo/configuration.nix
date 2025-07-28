@@ -78,7 +78,7 @@
     wget
     obsidian
     fabric-ai
-    zed
+    zeditor
     zoxide
     curl
     unzip

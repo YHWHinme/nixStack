@@ -85,6 +85,7 @@
     unzip
     fastfetch
     ripgrep
+    nodejs
     font-awesome
     fd
     bat

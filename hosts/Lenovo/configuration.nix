@@ -72,6 +72,7 @@
     fish
     waybar
     docker
+    cargo
     go
     git
     fzf

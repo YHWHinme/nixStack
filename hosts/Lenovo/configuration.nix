@@ -76,6 +76,7 @@
     git
     fzf
     wget
+    uv
     obsidian
     fabric-ai
     zed-editor
